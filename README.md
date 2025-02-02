@@ -1,0 +1,1 @@
+# 0069.Langchain_Groq_HF-Gemma2-9b-it_FAISS-Db_Question-answering-based-on-loaded-text
